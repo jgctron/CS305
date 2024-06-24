@@ -1,0 +1,22 @@
+
+Why would you want to use a CA for security?
+
+ A certificate authority (CA) issues digital certificates, which enable the recipients of secure connections to be confident that the identity of the entity that they are interacting with (typically a website or an email server) has been verified. Specifically, users of a CA for security can trust websites and services (the certificantees) issuing CAs because the CA is the trusted third party providing this authentication of identity.
+
+What are the advantages of using a CA?
+
+ Third party recognition: There are only so many organisations in the world that are generally recognised and trusted enough to be able to vouch for somebody’s identity and issue a certificate of authentication. We all know the CA.
+
+ Authentication: CAs can verify the holder of a certificate to provide that the users are going to a known website or service.
+
+ Encryption: CAs issue and validate certificates for secure, encrypted communications over networks, allowing for confidential information to remain protected against prying eyes and against intrusions.
+
+ CA-issued certificates: Digital certificate credits are necessary or helpful for many industries and regulatory agencies wanting to facilitate secure and trusted web communications or facilitation of online transactions and business. 
+
+ Public Key Infrastructure (PKI): They serve a crucial role in many security protocols, including SSL/TLS, electronic mail encryption, and code signing based on the use of people’s so-called public keys (as opposed to their private keys, which they do not reveal).
+ 
+ 
+
+
+
+
