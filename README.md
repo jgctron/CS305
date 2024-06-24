@@ -26,11 +26,3 @@ Key resources and tools used included:
 
 ### Demonstrating Skills to Employers
 From this assignment, I can showcase my ability to conduct thorough vulnerability assessments, implement secure coding practices, and manage dependencies effectively. These skills are crucial for ensuring software security and compliance in a professional environment.
-
-## Link to Repository
-
-You can find the complete projects and additional documentation in my [GitHub repository](https://github.com/jtron1/cs305-portfolio).
-
----
-
-By reflecting on these projects, I've gained deeper insights into software security and vulnerability management, which will be invaluable in my future career as a software developer.
